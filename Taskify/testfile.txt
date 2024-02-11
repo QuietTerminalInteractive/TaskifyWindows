@@ -1,1 +1,1 @@
-This is a placeholder file that is used to tet if the files download correctly.
+This is a placeholder file that is used to test if the files download correctly.
